@@ -1,0 +1,20 @@
+@media (max-width: 1260px) {
+    .info__item {
+        padding: 30px;
+    }
+    
+    
+    .info__title {
+    font-size: 16px;
+    }
+
+    .info.text {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 1080px) {
+    .info_title {
+        letter-spacing: unset;
+    }
+}
